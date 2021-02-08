@@ -56,7 +56,7 @@ sam15x15.menu.crystalsel.withoutcrystal.bootloader.file=zero/samd21_sam_ba_cryst
 sam15x15.menu.crystalsel.withcrystal.bootloader.file=zero/samd21_sam_ba.bin
 
 
-# SAM 15x15 (only native USB port)
+# SAM 15x15 No Bootloader (only native USB port)
 # --------------------------------------
 SAMD21_No_Bootloader.name=SAMD21 (No Bootloader)
 SAMD21_No_Bootloader.vid.0=0x2341
