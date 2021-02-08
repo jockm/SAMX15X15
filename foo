@@ -2,11 +2,11 @@
   "packages": [
     {
       "name": "avdweb.nl boards",
-      "maintainer": "jockmurphy",
-      "websiteURL": "https://github.com/jockm/SAMX15X15",
-      "email": "jock@jockmurphy.com",
+      "maintainer": "avdweb.nl",
+      "websiteURL": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html",
+      "email": "a@maxun.cc",
       "help": {
-        "online": "https://github.com/jockm/SAMX15X15"
+        "online": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html"
       },
       "platforms": [
         {
@@ -15,12 +15,12 @@
           "version": "25.12.17",
           "category": "Contributed",
           "help": {
-            "online": "https://github.com/jockm/SAMX15X15"
+            "online": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html"
           },
           "url": "https://raw.githubusercontent.com/jockm/SAMX15X15/master/SAMX15X15.tar.bz2",
           "archiveFileName": "SAMX15X15.tar.bz2",
-          "checksum": "SHA-256:c96281afeca732c47ed05bec92d73ccae197a464e6f1c5cf7bb491cf851ef6b7",
-          "size": "3060290",
+          "checksum": "SHA-256:MOOSE",
+          "size": "HOUSE",
           "boards": [
             {
               "name": "SAMX15X15"
@@ -35,8 +35,8 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/jockm/SAMX15X15/master/avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2",
           "archiveFileName": "avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2",
-          "checksum": "SHA-256:c96281afeca732c47ed05bec92d73ccae197a464e6f1c5cf7bb491cf851ef6b7",
-          "size": "3060290",
+          "checksum": "SHA-256:MOOSE",
+          "size": "HOUSE",
           "boards": [
             {
               "name": "SAMD21",

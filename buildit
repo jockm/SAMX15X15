@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+
+rm SAMX1515.tar.bz2
+rm avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2
+
+mkdir SAMX15X15
+
+cp -r avdweb_nl_samd/* SAMX15X15/
+
+tar cvf SAMX1515.tar SAMX15X15
+tar cvf avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar avdweb_nl_samd
+
+bzip2 SAMX1515.tar
+bzip2 avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar
+
+rm -rf SAMX15X15
+
+CHECKSUM=`shasum -a 256 SAMX1515.tar.bz2 | cut -d ' ' -f1`
+FILESIZE=`wc -c SAMX1515.tar.bz2 | cut -d ' ' -f2`
+
+sed "s/{size}/${FILESIZE}/g;s/{checksum}/${CHECKSUM}/g" <package_avdweb_nl_index.template >package_avdweb_nl_index.json
