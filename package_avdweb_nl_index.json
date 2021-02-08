@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/jockm/SAMX15X15/releases/download/V1/SAMX1515.tar.bz2",
           "archiveFileName": "SAMX15X15.tar.bz2",
-          "checksum": "SHA-256:23153381004365b5fbe0bf98a72ebb875d2e67df36551671f43f98583bf547d8",
-          "size": "3061266",
+          "checksum": "SHA-256:77edf635d0aa270f0a3e5f908f4b10f28ca540552147ffeb0a83cf0c9b16fc81",
+          "size": "3060388",
           "boards": [
             {
               "name": "SAMX15X15"
@@ -35,8 +35,8 @@
           "category": "Contributed",
           "url": "https://github.com/jockm/SAMX15X15/releases/download/V1/avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2",
           "archiveFileName": "avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2",
-          "checksum": "SHA-256:23153381004365b5fbe0bf98a72ebb875d2e67df36551671f43f98583bf547d8",
-          "size": "3061266",
+          "checksum": "SHA-256:c304a0e8d7c072f5e3e46af9598f5e12a456881349c0224e6a53c1504f15036d",
+          "size": "3060388",
           "boards": [
             {
               "name": "SAMD21",
