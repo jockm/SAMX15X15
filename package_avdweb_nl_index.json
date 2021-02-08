@@ -10,31 +10,31 @@
       },
       "platforms": [
         {
-          "name": "avdweb.nl SAM15X15 SAMD Boards",
+          "name": "avdweb.nl SAMX15X15 SAMD Boards",
           "architecture": "samd",
           "version": "25.12.17",
           "category": "Contributed",
           "help": {
             "online": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html"
           },
-          "url": "https://raw.githubusercontent.com/avandalen/SAM15x15/master/SAM15x15.tar.bz2",
-          "archiveFileName": "SAM15x15.tar.bz2",
+          "url": "https://raw.githubusercontent.com/jockm/SAMX15X15/master/SAMX15X15.tar.bz2",
+          "archiveFileName": "SAMX15X15.tar.bz2",
           "checksum": "SHA-256:daa542fed156f1036881d8987111552e4678b5abde3020a0d4ffa4e206236927",
           "size": "856810",
           "boards": [
             {
-              "name": "SAM15x15"
+              "name": "SAMX15X15"
             }
           ],
           "toolsDependencies": []
         },
         {
-          "name": "avdweb.nl SAM15X15 SAMD Boards",
+          "name": "avdweb.nl SAMX15X15 SAMD Boards",
           "architecture": "samd",
           "version": "26-Core-v1.8.6",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/avandalen/SAM15x15/master/avdweb_nl_SAM15X15_SAMD_Boards_26-Core-v1.8.6.tar.bz2",
-          "archiveFileName": "avdweb_nl_SAM15X15_SAMD_Boards_26-Core-v1.8.6.tar.bz2",
+          "url": "https://raw.githubusercontent.com/jockm/SAMX15X15/master/avdweb_nl_SAMX15X15_SAMD_Boards_26-Core-v1.8.6.tar.bz2",
+          "archiveFileName": "avdweb_nl_SAMX15X15_SAMD_Boards_26-Core-v1.8.6.tar.bz2",
           "checksum": "SHA-256:283cc85c13c8b7cede87d94522d4365c8b13f4f57dd5c82e6fba1e9e56f94249",
           "size": "2953209",
           "boards": [
@@ -76,12 +76,12 @@
           ]
         },
         {
-          "name": "avdweb.nl SAM15X15 SAMD Boards",
+          "name": "avdweb.nl SAMX15X15 SAMD Boards",
           "architecture": "samd",
           "version": "26.0.1-Core-v1.8.6",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/avandalen/SAM15x15/master/avdweb_nl_SAM15X15_SAMD_Boards_26.0.1-Core-v1.8.6.tar.bz2",
-          "archiveFileName": "avdweb_nl_SAM15X15_SAMD_Boards_26.0.1-Core-v1.8.6.tar.bz2",
+          "url": "https://raw.githubusercontent.com/jockm/SAMX15X15/master/avdweb_nl_SAMX15X15_SAMD_Boards_26.0.1-Core-v1.8.6.tar.bz2",
+          "archiveFileName": "avdweb_nl_SAMX15X15_SAMD_Boards_26.0.1-Core-v1.8.6.tar.bz2",
           "checksum": "SHA-256:fb5dc703e8ab01ffb1d06e2ec5973a949f29c8d7731b33a51949c24239cbccf6",
           "size": "2969748",
           "boards": [
@@ -123,12 +123,12 @@
           ]
         },
         {
-          "name": "avdweb.nl SAM15X15 SAMD Boards",
+          "name": "avdweb.nl SAMX15X15 SAMD Boards",
           "architecture": "samd",
           "version": "26.0.2-Core-v1.8.6",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/avandalen/SAM15x15/master/avdweb_nl_SAM15X15_SAMD_Boards_26.0.2-Core-v1.8.6.tar.bz2",
-          "archiveFileName": "avdweb_nl_SAM15X15_SAMD_Boards_26.0.2-Core-v1.8.6.tar.bz2",
+          "url": "https://raw.githubusercontent.com/jockm/SAMX15X15/master/avdweb_nl_SAMX15X15_SAMD_Boards_26.0.2-Core-v1.8.6.tar.bz2",
+          "archiveFileName": "avdweb_nl_SAMX15X15_SAMD_Boards_26.0.2-Core-v1.8.6.tar.bz2",
           "checksum": "SHA-256:a363065f04738f75ca0817203ec0a4770dc24b47c6494e384a384ae32b5f2057",
           "size": "3045591",
           "boards": [
@@ -170,12 +170,12 @@
           ]
         },
         {
-          "name": "avdweb.nl SAM15X15 SAMD Boards",
+          "name": "avdweb.nl SAMX15X15 SAMD Boards",
           "architecture": "samd",
           "version": "27.0.0-Core-v1.8.11",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/avandalen/SAM15x15/master/avdweb_nl_SAM15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2",
-          "archiveFileName": "avdweb_nl_SAM15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2",
+          "url": "https://raw.githubusercontent.com/jockm/SAMX15X15/master/avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2",
+          "archiveFileName": "avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2",
           "checksum": "SHA-256:38fd31c02013b83d8314c6092f3145b97dbf3ef475bdf4cf71c82cfec2153992",
           "size": "3095631",
           "boards": [
