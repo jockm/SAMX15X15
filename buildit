@@ -4,9 +4,8 @@ rm avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2
 tar cvf avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar avdweb_nl_SAM15X15_SAMD_Boards-27.0.0-Core-v1.8.11
 bzip2 avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar
 
-rm -rf SAMX15X15
 
 CHECKSUM1=`shasum -a 256 avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2 | cut -d ' ' -f1`
-FILESIZE=`wc -c SAMX1515.tar.bz2 | cut -d ' ' -f2`
+FILESIZE=`wc -c avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2 | cut -d ' ' -f2`
 
 sed "s/{size}/${FILESIZE}/g;s/{checksum1}/${CHECKSUM1}/g" <package_avdweb_nl_index.template >package_avdweb_nl_index.json

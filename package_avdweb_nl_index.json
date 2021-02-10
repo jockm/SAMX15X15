@@ -20,7 +20,7 @@
           "url": "https://github.com/jockm/SAMX15X15/releases/download/V5/avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2",
           "archiveFileName": "avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2",
           "checksum": "SHA-256:f996e4d34b778138e0859a216fe709444016557b682e78558b00ea478c53899d",
-          "size": "",
+          "size": "3071228",
           "boards": [
             {
               "name": "SAMX15X15"
@@ -36,7 +36,7 @@
           "url": "https://github.com/jockm/SAMX15X15/releases/download/V5/avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2",
           "archiveFileName": "avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2",
           "checksum": "SHA-256:f996e4d34b778138e0859a216fe709444016557b682e78558b00ea478c53899d",
-          "size": "",
+          "size": "3071228",
           "boards": [
             {
               "name": "SAMD21",
