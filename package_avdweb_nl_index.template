@@ -12,13 +12,13 @@
         {
           "name": "jockm_SAMX15X15 SAMD Boards",
           "architecture": "samd",
-          "version": "28.00.00",
+          "version": "28.1.1",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/jockm/SAMX15X15"
           },
-          "url": "https://github.com/jockm/SAMX15X15/releases/download/V6/avdweb_nl_SAMX15X15_SAMD_Boards_28.0.0-Core-v1.8.11.tar.bz2",
-          "archiveFileName": "avdweb_nl_SAMX15X15_SAMD_Boards_28.0.0-Core-v1.8.11.tar.bz2",
+          "url": "https://github.com/jockm/SAMX15X15/releases/download/V7/avdweb_nl_SAMX15X15_SAMD_Boards_28.1.1-Core-v1.8.11.tar.bz2",
+          "archiveFileName": "avdweb_nl_SAMX15X15_SAMD_Boards_28.1.1-Core-v1.8.11.tar.bz2",
           "checksum": "SHA-256:{checksum1}",
           "size": "{size}",
           "boards": [
@@ -31,10 +31,10 @@
         {
           "name": "jockm_SAMX15X15 SAMD Boards",
           "architecture": "samd",
-          "version": "28.0.0-Core-v1.8.11",
+          "version": "28.1.1-Core-v1.8.11",
           "category": "Contributed",
-          "url": "https://github.com/jockm/SAMX15X15/releases/download/V6/avdweb_nl_SAMX15X15_SAMD_Boards_28.0.0-Core-v1.8.11.tar.bz2",
-          "archiveFileName": "avdweb_nl_SAMX15X15_SAMD_Boards_28.0.0-Core-v1.8.11.tar.bz2",
+          "url": "https://github.com/jockm/SAMX15X15/releases/download/V7/avdweb_nl_SAMX15X15_SAMD_Boards_28.1.1-Core-v1.8.11.tar.bz2",
+          "archiveFileName": "avdweb_nl_SAMX15X15_SAMD_Boards_28.1.1-Core-v1.8.11.tar.bz2",
           "checksum": "SHA-256:{checksum1}",
           "size": "{size}",
           "boards": [
