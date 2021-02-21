@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-rm avdweb_nl_SAMX15X15_SAMD_Boards_27.0.0-Core-v1.8.11.tar.bz2
+rm avdweb_nl_SAMX15X15_SAMD_Boards_28.0.0-Core-v1.8.11.tar.bz2
 tar cvf avdweb_nl_SAMX15X15_SAMD_Boards_28.0.0-Core-v1.8.11.tar avdweb_nl_SAM15X15_SAMD_Boards-28.0.0-Core-v1.8.11
 bzip2 avdweb_nl_SAMX15X15_SAMD_Boards_28.0.0-Core-v1.8.11.tar
 
